@@ -1,1 +1,2 @@
 Sample text from admin
+My message from github!
